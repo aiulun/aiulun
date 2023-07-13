@@ -17,7 +17,7 @@ San Francisco, Bay Area native with a passion in problem solving helping people 
 See [my website](https://alanliang.netlify.app/) for more information!
 
 
-<h1 align="center">Projects</h1>
+<!--<h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
   
   <!-- <tr>
