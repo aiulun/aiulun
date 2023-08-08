@@ -32,11 +32,29 @@ See [my website](https://alanliang.netlify.app/) for more information!
   <a href="https://github.com/aiulun/Portfolio" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="http://travelara.herokuapp.com" target="_blank">
+  <a href="alanliang.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3 & Javasript</strong> - Portfolio with links to my other projects and contact information.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Valorant Agent Selector</h3>
+        <br />
+      <a target="_blank" href="https://valoagentselect.netlify.app/">
+            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXA2dmUyMmYwZHEzZ3Q2dzFza2xqN2R4cW44azJ3cngxcDk5bmxsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HfJWkB3LdeMYuUtVh3/giphy.gif" width="100%"  alt="Valo"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/aiulun/valorantAgentSelector" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://valoagentselect.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3 & Javasript</strong> - Choose your Valorant agent to see their bio and abilities or filter by roles!</p>
     </td>
   </tr>
   
