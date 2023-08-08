@@ -24,7 +24,7 @@ See [my website](https://alanliang.netlify.app/) for more information!
       <h3 align="center">Portfolio</h3>
         <br />
         <a target="_blank" href="alanliang.netlify.app">
-            <img src="[images/gif1.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNwd3I5Mnk4eDV4c24zOWptemlldjlmNGJhaWcxZjBtcTBsdXJrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeISYSAKsTV13Zh8u1/giphy.gif)" width="100%" alt="Portfolio"/>
+            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNwd3I5Mnk4eDV4c24zOWptemlldjlmNGJhaWcxZjBtcTBsdXJrbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/yeISYSAKsTV13Zh8u1/giphy.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
