@@ -82,11 +82,11 @@ See [my website](https://alanliang.netlify.app/) for more information!
         <br />
         <p align="center">
           
-  <a href="https://motb.digital/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  <a href="https://github.com/aiulun/storybooks" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Wordpress & CSS3</strong> - Website to help school music ensembles do community service in exchange for original music.</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Website to enter in personal stories with user authentication.</p>
     </td>
 
 
