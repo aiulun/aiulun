@@ -74,7 +74,7 @@ See [my website](https://alanliang.netlify.app/) for more information!
         <p><strong>Wordpress & CSS3</strong> - Website to help school music ensembles do community service in exchange for original music.</p>
     </td>
         <td width="50%" valign="top">
-      <h3 align="center">Music Outside The Box</h3>
+      <h3 align="center">Storybooks</h3>
         <br />
         <a target="_blank" href="https://motb.digital/">
             <img src="https://media2.giphy.com/media/GtD1Ye2JP1skBoMkMY/giphy.gif" width="100%" alt="MOTB"/>
